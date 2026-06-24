@@ -1,4 +1,4 @@
-# # 📚 Universo Jane Austen
+# 📚 Universo Jane Austen
 
 <p align="center">
   <img src="./images/jane-austen.jpg" alt="Retrato de Jane Austen" width="300">
