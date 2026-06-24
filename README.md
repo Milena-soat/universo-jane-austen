@@ -1,4 +1,10 @@
-# 📚 Universo Jane Austen
+# # 📚 Universo Jane Austen
+
+<p align="center">
+  <img src="./images/jane-austen.jpg" alt="Retrato de Jane Austen" width="300">
+</p>
+
+---
 
 ## 🎯 Contexto e Objetivos
 
@@ -158,7 +164,22 @@ Paródia dos romances góticos populares da época.
 Aborda amadurecimento, arrependimento e segundas oportunidades.
 
 ---
+## 💖 Meus Livros Favoritos de Jane Austen
 
+Durante a realização deste caderno temático, algumas obras se destacaram pelo impacto de suas histórias, personagens e reflexões sobre a sociedade.
+
+<p align="center">
+  <img src="./images/favoritos-jane-austen.jpg" width="600">
+</p>
+
+### 📚 Favoritos
+
+* **Orgulho e Preconceito** — Pela evolução do relacionamento entre Elizabeth Bennet e Mr. Darcy e pela crítica aos preconceitos sociais.
+* **Persuasão** — Pela história emocionante de reencontro, amadurecimento e segundas chances.
+* **Razão e Sensibilidade** — Pelo contraste entre razão e emoção representado pelas irmãs Dashwood.
+
+Essas obras demonstram a habilidade de Jane Austen em criar personagens marcantes e temas que continuam atuais mesmo após mais de dois séculos.
+---
 # 📖 Glossário
 
 **Ironia:** forma indireta de crítica muito utilizada por Austen.
