@@ -180,6 +180,22 @@ Durante a realização deste caderno temático, algumas obras se destacaram pelo
 
 Essas obras demonstram a habilidade de Jane Austen em criar personagens marcantes e temas que continuam atuais mesmo após mais de dois séculos.
 ---
+## 🎤 Apresentação Gerada no NotebookLM
+
+📄 [Abrir apresentação sobre Jane Austen](./slides/Jane_Austen_Beyond_Romance.pdf)
+
+Durante o desenvolvimento deste caderno temático, utilizei o NotebookLM para gerar uma apresentação sobre Jane Austen, consolidando os principais aprendizados obtidos durante a pesquisa.
+
+A apresentação aborda:
+
+* Vida e contexto histórico de Jane Austen;
+* Características de sua escrita;
+* Principais obras;
+* Temas recorrentes em seus romances;
+* Legado literário e influência cultural.
+
+Esse recurso complementou os estudos realizados e demonstrou como a Inteligência Artificial pode auxiliar na organização, síntese e apresentação do conhecimento.
+---
 # 📖 Glossário
 
 **Ironia:** forma indireta de crítica muito utilizada por Austen.
